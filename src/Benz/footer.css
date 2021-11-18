@@ -1,0 +1,237 @@
+.r1{
+    color: white;
+    margin-top: 60px;
+    font-size: 13px;
+    line-height: 25px;
+    padding-right:40%;
+    padding-left: 68px;
+}
+
+.r1 img{
+    height: 15px;
+    width: 15px;
+}
+
+.r1 .h1{
+    margin-left: 17px;
+}
+
+.para p{
+    color: white;
+    line-break: auto;
+    font-family: 'Times New Roman', Times, serif;
+  padding-left: 68px;
+    text-align: left;
+}
+
+.four-column-boxes {
+    margin-top: 3.5rem;
+    padding-left: 4.5rem;
+    text-align: left;
+    
+}
+
+.boxes {
+    display: flex;
+}
+
+.under-four-column-box {
+    color: white;
+}
+
+.under-four-column-box hr {
+    margin-top: 2rem;
+    border: 1px solid #1e1d1d;
+}
+
+.box-heading {
+    font-size: 1.8rem;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    width: 27rem;
+}
+
+.box-content {
+    margin-top: 2rem;
+    color: #1e1d1d;
+    width: 27rem;
+   
+}
+
+.box-content a {
+    color: #999;
+    font-size: 0.9rem;
+    text-decoration: none;
+}
+
+.box-content a:hover {
+    color: #63B1E3;
+}
+
+.box-content ul li {
+    padding-top: 0.4rem;
+    text-align: left;
+}
+.box-content ul{
+    padding-left: 0;
+}
+
+.contact-box {
+    margin-top: 1.8rem;
+    padding-left: 1.8rem;
+    padding-right: 1.8rem;
+}
+
+.under-contact-box-heading {
+    color: white;
+    font-size: 2rem;
+}
+
+.contact-box hr {
+    margin-top: 2rem;
+    border: 1px solid #1e1d1d;
+}
+
+.under-contact-box-para {
+    color: white;
+    margin-top: 2rem;
+    width: 33rem;
+    color: #999;
+}
+
+
+.lower-section-contact-box {
+    margin-top: 1.8rem;
+    padding-left: 1.8rem;
+    padding-right: 1.8rem;
+}
+
+.under-contact-box-heading {
+    color: white;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lower-section-contact-box hr {
+    margin-top: 2rem;
+    border: 1px solid white;
+}
+
+.under-contact-box-para {
+    color: white;
+    margin-top: 2rem;
+    width: 33rem;
+    color: #999;
+}
+.under-contact-box-para p{
+   font-size: 0.83rem;
+}
+
+.under-contact-box-para ul {
+    display: flex;
+    margin-top: 1.3rem;
+}
+
+.under-contact-box-para a {
+    width: auto;
+}
+
+.under-contact-box-para ul li {
+    width: 3rem;
+    margin: 10px 16.66667px;
+    font-size: 1.45rem;
+}
+
+.under-contact-box-para ul li a svg {
+    padding-left: 0;
+    color: #999;
+}
+
+.under-contact-box-para a:hover svg {
+    color: #63B1E3;
+}
+.footer-brand-images {
+    display: flex;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.footer-brand-images img {
+    width: 100%;
+    height: 2rem;
+}
+
+
+.footer-vertical-line {
+    margin-top: 2rem;
+    border: 1px solid white;
+    margin-left: 1.8rem;
+    width: 95%;
+}
+.main-footer {
+    margin-top: 1.3rem;
+    padding-left: 1.8rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 0.9rem;
+    padding-bottom: 1.3rem;
+}
+
+.main-footer-first-part {
+    margin-top: 1rem;
+}
+
+.main-footer-first-part p {
+    color: #999;
+}
+
+.main-footer-first-part p a {
+    color: white;
+}
+
+.main-footer-first-part p a:hover {
+    color: #63B1E3;
+}
+
+.main-footer-second-part {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 2.5rem;
+}
+
+.under-second-part ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.under-second-part ul li {
+    width: auto;
+    padding-left: 1.4rem;
+}
+
+.under-second-part ul li a {
+    color: #999;
+}
+
+.under-second-part ul li a:hover {
+    color: #63B1E3;
+}
+
+.top-button {
+    width: 8%;
+    padding-left: 1.5rem;
+    margin-bottom: 0.7rem;
+}
+
+.top-button a {
+    color: #999;
+}
+
+.top-button a svg {
+    padding-left: 0;
+   }
+
+.top-button a:hover {
+    color: #63B1E3;
+}
